@@ -1,4 +1,3 @@
-# NLP Course Project
 # Code Summarization with `stable-code-3b` + QLoRA
 
 Fine-tune [`stabilityai/stable-code-3b`](https://huggingface.co/stabilityai/stable-code-3b) for automatic code summarization using QLoRA. Supports training on Python (CodeSearchNet) and Java (FunCom) datasets, with full evaluation and mechanistic interpretability analysis.
