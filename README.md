@@ -13,7 +13,7 @@ Fine-tune [`stabilityai/stable-code-3b`](https://huggingface.co/stabilityai/stab
 | FunCom (Java) | [Download from Google Drive](https://drive.google.com/file/d/1BlZcjAdocLn4wk-3Jt90WjR24DAR0eXT/view?usp=sharing) |
 | CodeSearchNet (Python) | [Download from Google Drive](https://drive.google.com/file/d/1RB-tAVqzdn94YEBJLOkITrQ00KS2dLal/view?usp=sharing) |
 
-Download and place the weights in `./results_funcom/final_model/` before running evaluation cells.
+Download and place the weights in `./results_funcom/final_model/` before running evaluation cells. Similarly for CodeSearchNet.
 
 To download directly in the notebook:
 ```python
